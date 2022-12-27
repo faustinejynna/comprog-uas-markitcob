@@ -5,3 +5,4 @@ Proyek ini berkaitan dengan pengembangan situs web Virtual 'E-commerce Cleaning 
 3. Buka cmd secara langsung dari folder tersebut
 4. Tulis pip install -r requirements.txt di terminal untuk meng-install semua kebutuhan yang dibutuhkan app.
 5. Tulis python manage.py runserver untuk memulai server localhost untuk app.
+![image](https://user-images.githubusercontent.com/100023391/209680359-5f2b2efa-fd1e-4138-8e48-93072b5d10ee.png)
